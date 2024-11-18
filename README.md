@@ -1,6 +1,6 @@
 # Iris-Classifiers
 Iris Classifiers
-Here’s a description for your GitHub README to explain the code and its functionality:
+
 
 ---
 
